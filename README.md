@@ -3,5 +3,3 @@
 
 # Prediction results after upload
 ![Results](./UI/Prediction.png)
-
-# Public URL for website
